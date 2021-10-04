@@ -1,0 +1,1 @@
+# streamlit_handwritten_recognition
