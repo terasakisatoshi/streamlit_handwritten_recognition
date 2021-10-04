@@ -1,0 +1,9 @@
+torch
+torchvision
+pytorch_pfn_extras
+numpy
+matplotlib
+scikit-image
+pillow
+streamlit
+streamlit-drawable-canvas
